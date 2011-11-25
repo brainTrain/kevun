@@ -7,9 +7,9 @@ $(document).ready( function() {
             numbah = 0;
         }
 
-        $(html).css('background').('url(kevun' + numbah + '.jpg) no-repeat center center fixed');
+        $('html').css('background', 'url(kevun' + numbah + '.jpg) no-repeat center center fixed');
 
     
-    }
+    });
 
 });
