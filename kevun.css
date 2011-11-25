@@ -1,11 +1,11 @@
 html {
-    background: url(kevun.jpg) no-repeat center center fixed;
+    background: url(kevun0.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-a {
+#kevun {
     position: absolute;
     text-shadow: 0 -1px 1px #696969;
     right: 10%;
@@ -13,5 +13,6 @@ a {
     font-size: 100px;
     color: white;
     font-family: Sans-Serif;
+    cursor: pointer;
 
 }
