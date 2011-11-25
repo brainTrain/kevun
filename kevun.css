@@ -1,0 +1,16 @@
+html {
+    background: url(kevun.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+a {
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+    font-size: 100px;
+    color: white;
+    font-family: Sans-Serif;
+
+}
